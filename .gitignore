@@ -1,0 +1,4 @@
+**/node-modules
+**/dist
+**/.env
+**/.dev.ts
