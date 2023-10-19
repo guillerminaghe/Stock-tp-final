@@ -1,0 +1,111 @@
+{
+	"calzas": {
+		"lisa": [
+			{
+				"id": "randomUUID",
+				"descripcion": "calza unicolor",
+				"color": "blanco",
+				"talle": "xs",
+				"disponibilidad": 14,
+				"precio": 9999
+			},
+			{
+				"id": "randomUUID",
+				"descripcion": "calza unicolor",
+				"color": "rojo",
+				"talle": "m",
+				"disponibilidad": 20,
+				"precio": 9999
+			},
+			{
+				"id": "randomUUID",
+				"descripcion": "calza unicolor",
+				"color": "negro",
+				"talle": "m",
+				"disponibilidad": 16,
+				"precio": 9999
+			},
+			{
+				"id": "randomUUID",
+				"descripcion": "calza unicolor",
+				"color": "negro",
+				"talle": "xl",
+				"disponibilidad": 9,
+				"precio": 9999
+			}
+		],
+		"estampada": [
+			{
+				"id": "randomUUID",
+				"descripcion": "calza con diseño",
+				"color": ["blanco", "azul", "celeste"],
+				"talle": "xs",
+				"disponibilidad": 14,
+				"precio": 12000
+			},
+			{
+				"id": "randomUUID",
+				"descripcion": "calza con diseño",
+				"color": ["blanco", "azul", "violeta"],
+				"talle": "xs",
+				"disponibilidad": 10,
+				"precio": 12000
+			}
+		]
+	},
+	"remeras": {
+		"lisa": [],
+		"estampada": [],
+		"remerón": []
+	},
+	"joggins": {
+		"invierno": [],
+		"verano": []
+	},
+	"shorts": {
+		"liso": [],
+		"estampado": [],
+		"algodon": []
+	},
+	"camperas": {
+		"invierno": [],
+		"verano": []
+	}
+},
+	"remeras": 
+		"lisa": [{
+			"id": "randomUUID",
+				"descripcion": "Remera cuello redondo",
+				"genero": "dama",
+				"color": ["blanco", "azul", "gris"],
+				"talle": "m",
+				"disponibilidad": 15,
+				"precio": 3500
+				},
+				{
+					"id": "randomUUID",
+					"descripcion": "Remera cuello redondo",
+					"genero": "hombre",
+					"color": ["blanco", "azul", "gris"],
+					"talle": "l",
+					"disponibilidad": 10,
+					"precio": 4000
+				}],
+		"estampada": [{
+			"id": "randomUUID",
+				"descripcion": "Remera estampada de flores",
+				"genero": "dama",
+				"color": ["blanco", "azul", "gris"],
+				"talle": "m",
+				"disponibilidad": 8,
+				"precio": 4000
+		},
+		{
+			"id": "randomUUID",
+				"descripcion": "Remera cuello redondo",
+				"genero": "hombre",
+				"color": ["blanco", "azul", "gris"],
+				"talle": "m",
+				"disponibilidad": 15,
+				"precio": 3500}
+			],
